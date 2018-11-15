@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/LinkUpdater/Program.cs) (VB: [Program.vb](./VB/LinkUpdater/Program.vb))
+<!-- default file list end -->
 # How to redirect hyperlinks within an exported PDF document
 
 
